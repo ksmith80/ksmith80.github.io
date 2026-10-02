@@ -1,0 +1,31 @@
+body{background-color: rgb(3, 67, 3);}
+
+.name {
+    text-align: center;
+    margin: 20px 0; 
+}
+.menu{background-color: #ed7512; text-align: center; padding: 10px; border: 1px solid #ccc; width: 125px;}
+
+
+body {
+    font-family: 'Oswald', 'Archivo Black', 'Chango', sans-serif;
+    color: #0c0c0c;
+}
+    
+.days {
+    background-color: #ed7512; text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.container{
+    margin: 25px 0;
+}
+hr{
+color:black;
+font-weight: bold;
+border: 2.5px solid #070707;
+}
+.address{
+    text-align: center;
+    margin: 20px 0;
+}
