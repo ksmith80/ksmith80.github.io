@@ -10,13 +10,31 @@ h1 {
     margin: 75px 0;
 }
 
-img {
+.resume-box {
+    padding: 1.0rem;
+}
+
+.clips-header {
+    padding: 1.0rem;
+}
+
+.interview {
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 35%;
-    height: 30%;
+    width: 27%;
+    height: 27%;
     margin-top: 40px;
     margin-bottom: 40px;
+}
+
+.talkingke,
+.newspaper {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: 75%;
 }
